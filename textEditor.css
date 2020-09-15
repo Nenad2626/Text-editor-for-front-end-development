@@ -1,0 +1,21 @@
+body  {
+
+font-size: 15px;
+
+}
+
+textarea {
+
+display: inline-block;
+width: 412px;
+height: 407px;
+margin-left: 0px;
+font-family: Verdana;
+outline: none;
+background: darkolivegreen;
+color: white;
+resize: none;
+
+}
+
+
